@@ -1,0 +1,14 @@
+.outercontainer{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: darkgrey;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
